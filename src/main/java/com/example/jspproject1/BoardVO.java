@@ -39,9 +39,7 @@ public class BoardVO {
 	public void setContent(String content) {
 		this.content = content;
 	}
-	public Date getRegdate() {
-		return regdate;
-	}
+	public Date getRegdate() { return regdate; }
 	public void setRegdate(Date regdate) {
 		this.regdate = regdate;
 	}
